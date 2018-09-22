@@ -1,4 +1,6 @@
-# kakastro
+# catastrofe
+
+Es un clon del frontal Sede Electrónica del Catastro para buscar inmuebles 
 
 ## Project setup
 ```
